@@ -6,6 +6,8 @@ Does that title look like screaming ;-)  ...it is.  Friendly screaming, albeit.
 
 *Q:*  How can I fix this problem?   *A:*  Don't use the same password for anything important.  That's it.  
 
+In a recent interview I did on the Brakeing Down Security Podcast (sic) [http://brakeingsecurity.com/2017-039-creating-custom-training-for-your-org-and-audio-from-sans-berlin] several of the top Security professionals in Europe, which I interviewed that day, agreed that ironically password reuse was the biggest problem facing organizations today, because of how it may lead to so many other risks.  One person even suggested to do away with passwords completely in favor of something new.
+
 If you want to hear some of the worst IT-scare-stories I've ever seen, read this about locking people out of there Apple stuff [https://webcache.googleusercontent.com/search?q=cache:vSD89TLJBAUJ:https://blog.malwarebytes.com/cybercrime/2016/03/an-icloud-scam-that-may-be-worse-than-ransomware/], or this about losing your life savings [http://www.telegraph.co.uk/finance/personalfinance/borrowing/mortgages/11605010/Fraudsters-hacked-emails-to-my-solicitor-and-stole-340000-from-my-property-sale.html] while buying a house.  These are most simply the result of... yup, password reuse [https://xkcd.com/792/].
 
 You don't have to take my word for it: take a look at online databases [https://haveibeenpwned.com/] of leaked passwords [https://hacked-emails.com/], and search for an old e-mail address, or a friend's e-mail address (*for security, please don't use your own, current e-mail addresses). 
